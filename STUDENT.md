@@ -4,11 +4,11 @@
 
 **Semester:** Semester 1, 2022
 
-**Student ID:** 123456789
+**Student ID:** 1324780
 
-**Name**: First_Name Last_Name
+**Name**: Zhiran Bai
 
-**Email**: your_email@student.unimelb.edu.au
+**Email**: baizb@student.unimelb.edu.au
 
 Replace the lines above with your correct details.
 
